@@ -4,8 +4,7 @@ export const blogData = [
         title: 'SCRAPING BILLBOARD AND IMDB USING PYTHON SELENIUM',
         description: 'Here we will use Selenium to navigate between web pages, and try to scrape data from them.',
         date: 'Aug 7, 2020',
-        image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F4%2F40%2FHackerRank_Icon-1000px.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHackerRank&tbnid=2ly1jZxIqHRa7M&vet=12ahUKEwjYwaCGlY_8AhWyk9gFHV0BBQ0QMygAegUIARDpAQ..i&docid=wlJx8pmaCAgjMM&w=1000&h=1000&q=hackerrank&ved=2ahUKEwjYwaCGlY_8AhWyk9gFHV0BBQ0QMygAegUIARDpAQ',
-        url: ''
+        image: 'https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F118%2F895%2Fpng-transparent-hackerrank-logos-and-brands-line-filled-icon.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dhackerrank&tbnid=NSuXXjrEKIOxMM&vet=12ahUKEwju7c7rlY_8AhU5odgFHTeICcYQMygFegUIARDSAQ..i&docid=7m3gcmU7n331WM&w=920&h=920&q=hackerrank%20logo&ved=2ahUKEwju7c7rlY_8AhU5odgFHTeICcYQMygFegUIARDSAQ'
     },
     {
         id: 2,
