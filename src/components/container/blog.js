@@ -38,4 +38,4 @@ function Blog() {
     )
 }
 
-export default Certifications
+export default Blog
