@@ -4,6 +4,6 @@ export const socialsData = {
     linkedIn: 'https://www.linkedin.com/in/harsh-agrawal-735b6418b/',
     twitter: 'https://twitter.com/harsh',
     medium: 'https://medium.com/harsh',
-    stackOverflow: 'https://stackoverflow.com/users/16840768/harsh',
+    stackOverflow: 'https://stackoverflow.com/harsh3125',
     mail: 'harsh2531agrawal@gmail.com',
 }
