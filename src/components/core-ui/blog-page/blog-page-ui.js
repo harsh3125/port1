@@ -11,7 +11,7 @@ const BlogPageUI = ({ theme, classes, filteredArticles, setSearch, search }) => 
   return (
     <div className="blogPage" style={{ backgroundColor: theme.secondary }}>
       <Helmet>
-        <title>{headerData.name} | Blog</title>
+        <title>{headerData.name} | Certificates</title>
       </Helmet>
       <div className="blogPage--header" style={{ backgroundColor: theme.primary }}>
         <Link to="/">
@@ -21,7 +21,7 @@ const BlogPageUI = ({ theme, classes, filteredArticles, setSearch, search }) => 
       </div>
       <div className="blogPage--container">
         <div className="blog--search">
-          <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Seach blog..." className={classes.search} />
+          <input type="text" value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Seach certificates..." className={classes.search} />
         </div>
         <div className="blogs--container">
           <Grid className="blog-grid" container direction="row" alignItems="center" justifyContent="center">
