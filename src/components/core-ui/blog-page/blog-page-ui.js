@@ -17,7 +17,7 @@ const BlogPageUI = ({ theme, classes, filteredArticles, setSearch, search }) => 
         <Link to="/">
           <AiOutlineHome className={classes.home} />
         </Link>
-        <h1 style={{ color: theme.secondary }}>Blogs</h1>
+        <h1 style={{ color: theme.secondary }}>Certificates</h1>
       </div>
       <div className="blogPage--container">
         <div className="blog--search">
